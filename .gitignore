@@ -1,0 +1,16 @@
+# arquivos da disciplina
+*.pdf
+
+# datasets grandes
+*.csv
+
+# arquivos do sistema
+.DS_Store
+
+# notebooks temporários
+.ipynb_checkpoints/
+
+# ambiente virtual
+venv/
+env/
+
